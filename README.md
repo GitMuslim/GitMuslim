@@ -4,8 +4,8 @@
 	بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 		
 		In the Name of Allah—the Most Compassionate, Most Merciful.
-</h3>
 
 This is an empty README file with notthing much more, here's some snake
 
 <img src="snake.svg">
+</h3>
