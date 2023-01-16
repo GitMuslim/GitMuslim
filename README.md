@@ -1,4 +1,4 @@
-بسم الله الرحمان الرحيم
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
 <!--
 **mustafakhalaf-git/mustafakhalaf-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
