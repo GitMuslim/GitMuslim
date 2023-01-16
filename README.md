@@ -1,6 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/mustafakhalaf-git/mustafakhalaf-git/main/Bismillah2.png" width="300" alt="Logo"/></br>
-		بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+	
+	بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 		
 		In the Name of Allah—the Most Compassionate, Most Merciful.
 </h3>
