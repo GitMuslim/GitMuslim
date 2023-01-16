@@ -8,5 +8,5 @@
 
 This is an empty README file with notthing much more, here's some snake
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
+<a href="https://github.com/s"><img src="contributions.svg"></a>
 
