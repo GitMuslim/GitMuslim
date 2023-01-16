@@ -8,5 +8,4 @@
 
 This is an empty README file with notthing much more, here's some snake
 
-<a href="https://github.com/s"><img src="contributions.svg"></a>
-
+<img src="snake.svg">
