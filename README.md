@@ -1,6 +1,6 @@
 <h3 align="center">
-	بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 	<img src="https://raw.githubusercontent.com/mustafakhalaf-git/mustafakhalaf-git/main/Bismillah.png" width="150" alt="Logo"/>
+		بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 </h3>
 
   <!--
