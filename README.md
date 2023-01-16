@@ -1,5 +1,6 @@
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 
+<img src="https://e7.pngegg.com/pngimages/977/183/png-clipart-qur-an-basmala-islam-ar-rahman-allah-islam-qur-an-basmala.png">
 <!--
 **mustafakhalaf-git/mustafakhalaf-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
