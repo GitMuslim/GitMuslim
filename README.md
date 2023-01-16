@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/mustafakhalaf-git/mustafakhalaf-git/main/Bismillah2.png" width="450" alt="Logo"/></br>
+	<img src="https://raw.githubusercontent.com/mustafakhalaf-git/mustafakhalaf-git/main/Bismillah2.png" width="400" alt="Logo"/></br>
 		بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 </h3>
 
