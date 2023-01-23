@@ -5,7 +5,7 @@
 		
 		In the Name of Allah—the Most Compassionate, Most Merciful.
 
-This is an empty README file with notthing much more, here's some snake
+This is an empty README file with nothing much more, here's some snake
 
 <img src="snake.svg">
 </h3>
