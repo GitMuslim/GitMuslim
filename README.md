@@ -3,7 +3,7 @@
 	
 	بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 		
-	In the Name of Allah—the Most Compassionate, Most Merciful.
+	                In the Name of Allah—the Most Compassionate, Most Merciful.
 
 This is an empty README file with nothing much more, here's some snake
 
