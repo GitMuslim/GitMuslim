@@ -4,6 +4,8 @@
 	بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 		
 	In the Name of Allah—the Most Compassionate, Most Merciful.
+Favourite Repositories:-
+📖 [Catppuccin for Quran.com](https://github.com/mustafakhalaf-git/quran)
 
 This is an empty README file with nothing much more, here's some snake
 
