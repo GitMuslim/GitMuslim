@@ -6,7 +6,7 @@
 	In the Name of Allah—the Most Compassionate, Most Merciful.
 Favourite Repositories:-
 
-📖 [Catppuccin for Quran.com](https://github.com/mustafakhalaf-git/quran)
+☪️ [Catppuccin for Quran.com](https://github.com/mustafakhalaf-git/quran)
 
 here's some snake
 
