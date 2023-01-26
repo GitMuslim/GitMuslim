@@ -10,7 +10,7 @@ Favourite Repositories:-
 
 🎮 [AndroRPC (Android Discord Rich Presence)](https://github.com/mustafakhalaf-git/AndroRPC)
 
-here's some snake
 
+here's some snake
 <img src="snake.svg">
 </h3>
