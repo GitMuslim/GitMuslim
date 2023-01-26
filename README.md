@@ -12,7 +12,6 @@ Favourite Repositories:-
 
 ------------
 Socials:-
-
 <img src="https://www.redditinc.com/assets/images/site/logo01.svg" width="30" alt="Logo"/> Reddit: [u/RedditMuslim](https://reddit.com/u/RedditMuslim)
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" alt="Logo"/> GitHub: [mustafakhalaf-git](https://github.com/mustafakhalaf-git)
