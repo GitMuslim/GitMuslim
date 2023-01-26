@@ -10,9 +10,14 @@ Favourite Repositories:-
 
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width="40" alt="Logo"/>[AndroRPC (Android Discord Rich Presence)](https://github.com/mustafakhalaf-git/AndroRPC)
 
+------------
 Socials:-
 
 <img src="https://www.redditinc.com/assets/images/site/logo01.svg" width="30" alt="Logo"/> Reddit: [u/RedditMuslim](https://reddit.com/u/RedditMuslim)
+
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" alt="Logo"/> GitHub: [mustafakhalaf-git](https://github.com/mustafakhalaf-git)
+
+-------------------------
 
 here's some snake
 <img src="snake.svg">
