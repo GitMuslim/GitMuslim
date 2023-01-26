@@ -8,7 +8,7 @@ Favourite Repositories:-
 
 ☪️ [Catppuccin for Quran.com](https://github.com/mustafakhalaf-git/quran)
 
-🎮 [AndroRPC (Android Discord Rich Presence](https://github.com/mustafakhalaf-git/AndroRPC)
+🎮 [AndroRPC (Android Discord Rich Presence)](https://github.com/mustafakhalaf-git/AndroRPC)
 
 here's some snake
 
