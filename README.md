@@ -1,8 +1,9 @@
 <h3 align="center">
 	<picture>
-		<source srcset="Bismillah_Light.png" width="300" alt="Bismillah Light" media="(prefers-color-scheme: dark)"/>
-      		<source srcset="Bismillah_Dark.png" width="300" alt="Bismillah Dark" media="(prefers-color-scheme: light)"/>
+		<source srcset="Bismillah_Dark.png" width="300" alt="Bismillah" media="(prefers-color-scheme: dark)"/>
+      		<source srcset="Bismillah.png" width="300" alt="Bismillah" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
     	</picture>
+	<img src="Bismillah.png" width="64" height="64" alt="Bismillah"/>
 	
 	بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 		
