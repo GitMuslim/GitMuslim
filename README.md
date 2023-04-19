@@ -1,5 +1,8 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/mustafakhalaf-git/mustafakhalaf-git/main/Bismillah2.png" width="300" alt="Logo"/></br>
+	<picture>
+		<source srcset="Bismillah_dark.png" width="300" alt="Bismillah Dark" media="(prefers-color-scheme: dark)"/>
+      		<source srcset="Bismillah_light.png" width="300" alt="Bismillah Light" media="(prefers-color-scheme: light)"/>
+    	</picture>
 	
 	بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 		
