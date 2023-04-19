@@ -2,8 +2,8 @@
 	<picture>
 		<source srcset="Bismillah_Dark.png" width="300" alt="Bismillah" media="(prefers-color-scheme: dark)"/>
       		<source srcset="Bismillah.png" width="300" alt="Bismillah" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    	</picture>
-	<img src="Bismillah.png" width="64" height="64" alt="Bismillah"/>
+		<img src="Bismillah.png" width="64" height="64" alt="Bismillah"/>
+	</picture>
 	
 	بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
 		
