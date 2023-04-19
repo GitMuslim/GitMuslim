@@ -2,7 +2,7 @@
 	<picture>
 		<source srcset="Bismillah_Macchiato.png" width="300" alt="Bismillah" media="(prefers-color-scheme: dark)"/>
       		<source srcset="Bismillah_Latte.png" width="300" alt="Bismillah" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-		<img src="Bismillah_Latte.png" width="300" alt="Bismillah"/>
+		<img src="Bismillah_Light.png" width="300" alt="Bismillah"/>
 	</picture>
 	
 	بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
