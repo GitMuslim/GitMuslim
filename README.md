@@ -1,6 +1,6 @@
 <h3 align="center">
 	<picture>
-		<source srcset="Bismillah_Macchiato.png" width="300" alt="Bismillah" media="(prefers-color-scheme: dark)"/>
+		<source srcset="Bismillah_Mocha.png" width="300" alt="Bismillah" media="(prefers-color-scheme: dark)"/>
       		<source srcset="Bismillah_Latte.png" width="300" alt="Bismillah" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 		<img src="Bismillah_Latte.png" width="300" alt="Bismillah"/>
 	</picture>
