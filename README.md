@@ -23,7 +23,7 @@ Socials:-
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" alt="Logo"/> GitHub: [GitMuslim](https://github.com/GitMuslim)
 
-<img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width="40" alt="Logo"/> Discord: Muslim__
+<img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width="40" alt="Logo"/> Discord: muslim__
 
 -------------------------
 
