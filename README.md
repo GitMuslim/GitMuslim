@@ -26,6 +26,11 @@ Socials:-
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width="40" alt="Logo"/> Discord: muslim__
 
 -------------------------
+Status:-
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1087077216199921716)](https://discord.com/users/1087077216199921716)
+
+-------------------------
 
 here's some snake
 <img src="snake.svg">
