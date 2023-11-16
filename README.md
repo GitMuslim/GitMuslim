@@ -28,7 +28,7 @@ Socials:-
 -------------------------
 Status:-
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1087077216199921716)](https://discord.com/users/1087077216199921716)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1087077216199921716?showDisplayName=true)](https://discord.com/users/1087077216199921716)
 
 -------------------------
 
